@@ -189,7 +189,7 @@ Over a week later (2013–09–10) maaku posted [14] the link to the thread [15]
 - [64] https://bitcointalk.org/index.php?topic=279249.msg26230669#msg26230669
 - [65] https://bitcointalk.org/index.php?topic=279249.msg26563793#msg26563793
 - [66] https://github.com/nopara73/ZeroLink
-- [67] https://github.com/nopara73/HiddenWallet/blob/master/HiddenWallet.Documentation/- TestingTheZeroLinkMixer.md
+- [67] https://github.com/nopara73/HiddenWallet/blob/master/HiddenWallet.Documentation/-TestingTheZeroLinkMixer.md
 - [68] https://bitcointalk.org/index.php?topic=279249.msg46988492#msg46988492
 - [69] https://bitcointalk.org/index.php?topic=279249.msg48881217#msg48881217
 - [70] https://github.com/bitcoin/bips/blob/master/bip-0079.mediawiki
