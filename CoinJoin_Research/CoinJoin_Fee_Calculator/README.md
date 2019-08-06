@@ -11,16 +11,16 @@ To Do:
 ![.](Images/0.001.png) 
 
 ## Pool 0.005 BTC
-![.](/Images/0.005.png) 
+![.](Images/0.005.png) 
 
 ## Pool 0.01 BTC
-![.](/Images/0.01.png) 
+![.](Images/0.01.png) 
 
 ## Pool 0.05 BTC
-![.](/Images/0.05.png) 
+![.](Images/0.05.png) 
 
 ## Pool 0.1 BTC
-![.](/Images/0.1.png) 
+![.](Images/0.1.png) 
 
 ## Pool 0.5 BTC
-![.](/Images/0.5.png) 
+![.](Images/0.5.png) 
