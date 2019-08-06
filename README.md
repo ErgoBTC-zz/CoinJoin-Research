@@ -3,10 +3,10 @@
 CoinJoin research is a fascinating topic - This repo serves as a place to organise & archive any and all CoinJoin research. 
 
 Objectives
-- Archive previous CoinJoin implementations 
-- Archive previous CoinJoin research
+- Archive previous CoinJoin implementations (see [CoinJoin Implementations](/CoinJoin_Implementations))
+- Archive previous CoinJoin research (see [CoinJoin Research](/CoinJoin_Research))
 - Document learnings from previous CoinJoin implementations
-- Compare currently available CoinJoin tools
+- Compare currently available CoinJoin tools 
 - Propose new areas of CoinJoin research
 
 I am very open to suggestions regarding how to structure this repo. 
