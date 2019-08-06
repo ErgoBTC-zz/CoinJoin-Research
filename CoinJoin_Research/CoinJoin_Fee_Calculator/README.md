@@ -8,7 +8,7 @@ To Do:
 2) Incorporate actual Wasabi UTXO cascade splitting (0.7 -> 0.4, 0.2, 0.1) 
 
 ## Pool 0.001 BTC
-![.](/Images/0.001.png) 
+![.](Images/0.001.png) 
 
 ## Pool 0.005 BTC
 ![.](/Images/0.005.png) 
