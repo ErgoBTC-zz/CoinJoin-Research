@@ -9,16 +9,31 @@
 | Last Commit		| 2019–08–06	|
 | Demo				| [link](https://youtu.be/hwmvZVQ4C4M) | 
 
-Demonstration of Installation and usage
-https://youtu.be/hwmvZVQ4C4M
+### Links:
+- Current [orderbook](https://joinmarket.me/ob)
+- [reddit](https://www.reddit.com/r/joinmarket)
+- [github](https://github.com/JoinMarket-Org)
+- [wiki for getting started](https://github.com/JoinMarket-Org/joinmarket/wiki)
+- IRC freenode #joinmarket, or cyberguerrilla same channel (bridged).
+- [blog](https://joinmarket.me/blog) of Joinmarket Contributor Adam Gibson
+- [Likely Future Updates](https://github.com/Joinmarket-Org/joinmarket/issues/693)
+- [Joinmarket.me](https://joinmarket.me) info hub (source of many of these links)
 
-### Joinmarket Wiki
-https://github.com/JoinMarket-Org/joinmarket/wiki
+### Videos
+
+**Warning - Direct Download *
+- Introducing the wallet loading and settings [Video 1](https://joinmarket.me/media/QtWt5.mkv) | [Video 2](https://joinmarket.me/media/QtWt9.mkv)
+- Single Coinjoins [Video 3](https://joinmarket.me/media/QtWt10.mkv)
+- Tumbling [Video 4](https://joinmarket.me/media/QtWt11.mkv)
+
+* Youtube *
+- [Demonstration of Installation and usage](https://youtu.be/hwmvZVQ4C4M)
 
 ### Guides
 - [Mac & Windows Install Guide](https://github.com/JoinMarket-Org/joinmarket-clientserver/blob/master/docs/INSTALL.md)
 - [Useage Guide](https://github.com/JoinMarket-Org/joinmarket-clientserver/blob/master/docs/USAGE.md)
 - [Walkthrough](https://github.com/JoinMarket-Org/joinmarket-clientserver/blob/master/docs/JOINMARKET-QT-GUIDE.md)
+- [Old Walkthrough](https://github.com/JoinMarket-Org/JMBinary/blob/174cbd8cc6b88afe43ed6a6f9269fb896c67ea10/README.md#walkthrough)
 
 ### JoinMarket Origin
 It appears that [this bitcointalk post](https://bitcointalk.org/index.php?topic=279249.msg9384411#msg9384411) directly led to the creation of JoinMarket
