@@ -27,7 +27,9 @@
 - Tumbling [Video 4](https://joinmarket.me/media/QtWt11.mkv)
 
 * Youtube *
-- [Demonstration of Installation and usage](https://youtu.be/hwmvZVQ4C4M)
+- 2019 - [Demonstration by Adam Gibson](https://youtu.be/hwmvZVQ4C4M)
+- 2017 - [Presentation by Adam Gibson](https://www.youtube.com/watch?v=IKSSWUBqMCM&t=2448)
+- 2016 - [Presentation by Adlai Chandrasekhar](https://youtu.be/Wgj23qgHj4A)
 
 ### Guides
 - [Mac & Windows Install Guide](https://github.com/JoinMarket-Org/joinmarket-clientserver/blob/master/docs/INSTALL.md)
