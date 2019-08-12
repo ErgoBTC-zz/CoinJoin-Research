@@ -32,10 +32,11 @@
 - 2016 - [Presentation by Adlai Chandrasekhar](https://youtu.be/Wgj23qgHj4A)
 
 ### Guides
-- [Mac & Windows Install Guide](https://github.com/JoinMarket-Org/joinmarket-clientserver/blob/master/docs/INSTALL.md)
+- [Mac & Windows Install Guide](https://github.com/JoinMarket-Org/joinmarket-clientserver/blob/850ba7a8e3731dff8998e24bc5c7250bd98a6990/README.md#quickstart)
 - [Useage Guide](https://github.com/JoinMarket-Org/joinmarket-clientserver/blob/master/docs/USAGE.md)
 - [Walkthrough](https://github.com/JoinMarket-Org/joinmarket-clientserver/blob/master/docs/JOINMARKET-QT-GUIDE.md)
 - [Old Walkthrough](https://github.com/JoinMarket-Org/JMBinary/blob/174cbd8cc6b88afe43ed6a6f9269fb896c67ea10/README.md#walkthrough)
+- [Non Quickstart install.md](https://github.com/JoinMarket-Org/joinmarket-clientserver/blob/master/docs/INSTALL.md)
 
 ### JoinMarket Origin
 It appears that [this bitcointalk post](https://bitcointalk.org/index.php?topic=279249.msg9384411#msg9384411) directly led to the creation of JoinMarket
